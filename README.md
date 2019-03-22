@@ -1,24 +1,4 @@
-# README
+# PSL Source Style Guide
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Overview**
+ Welcome to the living style guide for the PSL Source application. This is the first piece of a new design system that will dictate how all current and future features will be produced and updated.
